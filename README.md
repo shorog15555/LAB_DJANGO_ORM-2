@@ -7,5 +7,8 @@
 - Add delete post.
 - Add search functionalty (use an form / input in the navbar) , to let user search for posts based on the title (filter).
 - Only show pages that are published.
+
+
+## Bonus
 - handle detail page for non existent post, use try/except and display a Not Found page.
 
